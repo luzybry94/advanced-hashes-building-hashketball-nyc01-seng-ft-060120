@@ -83,7 +83,7 @@ def game_hash
         },
         
          {
-         player_name: "Bismack Biyombo"
+         player_name: "Bismack Biyombo",
          number: 0,
          shoe: 16,
          points: 12,
